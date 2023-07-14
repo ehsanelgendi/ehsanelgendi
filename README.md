@@ -76,3 +76,24 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)](https://git-scm.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+
+
+<h3>Statistics</h3>
+<!-- dark mode only -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats-ehsanelgendi.vercel.app/api?username=ehsanelgendi&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+</a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="top" src="https://github-readme-stats-ehsanelgendi.vercel.app/api/top-langs/?username=ehsanelgendi&theme=dark#gh-dark-mode-only" />
+</a>
+
+<!-- light mode only -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats-ehsanelgendi.vercel.app/api?username=ehsanelgendi&count_private=true&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only" />
+</a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="top" src="https://github-readme-stats-ehsanelgendi.vercel.app/api/top-langs/?username=ehsanelgendi&theme=default#gh-light-mode-only" />
+</a>
+<br/><br/>
+
+>Github stats cards created by [anuraghraza](https://github.com/anuraghazra) as part of a repo found [here](https://github.com/anuraghazra/github-readme-stats).
