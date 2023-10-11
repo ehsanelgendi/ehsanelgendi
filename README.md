@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 <h3>Statistics</h3>
 <!-- dark mode only -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-opal-zeta-72.vercel.app/api?username=ehsanelgendi&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats-ehsanelgendi.vercel.app/api?username=ehsanelgendi&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="top" src="https://github-readme-stats-opal-zeta-72.vercel.app/api/top-langs/?username=ehsanelgendi&theme=dark#gh-dark-mode-only" />
+  <img align="top" src="https://github-readme-stats-ehsanelgendi.vercel.app/api/top-langs/?username=ehsanelgendi&theme=dark#gh-dark-mode-only" />
 </a>
 
 <!-- light mode only -->
